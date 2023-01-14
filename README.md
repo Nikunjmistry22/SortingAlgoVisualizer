@@ -23,4 +23,4 @@
 <li>Using Threads to improve performance of the GUI.</i></b>
 </ul>
 <img src="sortingAlgo.png">
-<h1>Download the GUI <i><a href="dist/sortVisualize.exe" download>Link</a></i></h1>
+<h1>Download the GUI <i><a href="sortVisualize.exe" download>Link</a></i></h1>

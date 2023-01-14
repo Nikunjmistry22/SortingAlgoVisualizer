@@ -1,8 +1,8 @@
 # SortingAlgoVisualizer
-<h3><i>SortingAlgoVisualizer is a tkinter gui to visualize sorting algorithm with dynamic spped and number of elements.</i></h3>
+<b><i>SortingAlgoVisualizer is a tkinter gui to visualize sorting algorithm with dynamic speed and number of elements.</i></b>
 <hr>
-<h1>Requirement:</h1>
-<ul><h3><li>None:-I have converted by .py file to .exe file so that in everyone's laptop it is available irrespective of python in it's environment</li></h3></ul>
+<h2>Requirement:</h2>
+<ul><h4><li>None:-I have converted by .py file to .exe file so that in everyone's laptop it is available irrespective of python in it's environment</li></h4></ul>
 <hr>
 <h1>Features:</h1>
 <ul>
